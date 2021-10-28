@@ -1,0 +1,7 @@
+C:\Users\julio\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\julio\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\julio\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\julio\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\julio\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\julio\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
